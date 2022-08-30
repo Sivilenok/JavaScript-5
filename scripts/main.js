@@ -87,3 +87,5 @@ function validate() {
 }
 
 validate();
+
+// Advanced Task 1
